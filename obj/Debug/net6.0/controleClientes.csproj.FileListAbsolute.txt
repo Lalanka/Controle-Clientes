@@ -1,0 +1,15 @@
+C:\Users\Lais\Documents\SENAI\controleClientes\bin\Debug\net6.0\controleClientes.exe
+C:\Users\Lais\Documents\SENAI\controleClientes\bin\Debug\net6.0\controleClientes.deps.json
+C:\Users\Lais\Documents\SENAI\controleClientes\bin\Debug\net6.0\controleClientes.runtimeconfig.json
+C:\Users\Lais\Documents\SENAI\controleClientes\bin\Debug\net6.0\controleClientes.dll
+C:\Users\Lais\Documents\SENAI\controleClientes\bin\Debug\net6.0\controleClientes.pdb
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\controleClientes.csproj.AssemblyReference.cache
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\controleClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\controleClientes.AssemblyInfoInputs.cache
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\controleClientes.AssemblyInfo.cs
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\controleClientes.csproj.CoreCompileInputs.cache
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\controleClientes.dll
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\refint\controleClientes.dll
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\controleClientes.pdb
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\controleClientes.genruntimeconfig.cache
+C:\Users\Lais\Documents\SENAI\controleClientes\obj\Debug\net6.0\ref\controleClientes.dll
